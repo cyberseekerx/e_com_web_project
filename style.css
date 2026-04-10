@@ -1,11 +1,12 @@
     h1{
     color: red;
     text-align: center;
-    font-family: monospace 
+    font-family: monospace;
     }
 
     p{
-    font-family: monospace 
+    color:blue;
+    font-family: monospace ;
     }
 
 
