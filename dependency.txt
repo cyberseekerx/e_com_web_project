@@ -1,1 +1,2 @@
-Django
+Django (py -m pip install Django==6.0.4 #for windows
+        python -m pip install Django==6.0.4 #for linux/macOS)
