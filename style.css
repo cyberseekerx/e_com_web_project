@@ -5,8 +5,12 @@
     }
 
     p{
-    color:blue;
+    color: blue;
     font-family: monospace ;
+    }
+    .right{
+      text-align: right;
+      color:green;
     }
 
 
